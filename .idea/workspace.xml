@@ -2,16 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ArrayVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/DynamicArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/GradeBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/methodDeepDive/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_15/Hypotenuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_21/SeparatingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_24/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_24/PerfectNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_25/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_26/ReversingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_30/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ObjectArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I_Academy/chapter4/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/chapter4/Assignment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Nm5fMVa8ls2U8B5BGYedm8gH9W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,14 +45,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.PerfectNumber">
+    <configuration name="ArrayExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tutorials.arrays.ArrayExample1" />
+      <module name="I-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tutorials.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tutorials.arrays.ArrayExample2" />
+      <module name="I-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tutorials.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tutorials.arrays.ArrayExample3" />
+      <module name="I-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tutorials.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tutorials.arrays.ObjectArray" />
+      <module name="I-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tutorials.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy_Assessments.ex06_24.PerfectNumber" />
+      <module name="I-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy_Assessments.ex06_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.ObjectArray" />
+        <item itemvalue="Application.ArrayExample3" />
+        <item itemvalue="Application.ArrayExample2" />
+        <item itemvalue="Application.ArrayExample1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +138,9 @@
       <option name="presentableId" value="Default" />
       <updated>1680256524486</updated>
       <workItem from="1680256527590" duration="165000" />
-      <workItem from="1680256736127" duration="1037000" />
+      <workItem from="1680256736127" duration="10504000" />
+      <workItem from="1680505533140" duration="48298000" />
+      <workItem from="1680856407907" duration="6548000" />
     </task>
     <servers />
   </component>
@@ -53,5 +157,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
