@@ -15,11 +15,11 @@ public class Assignment {
      */
     public static void main(String[] args) {
 
-        System.out.println(countChar("bobanibi", 'b'));
+//        System.out.println(countChar("bobanibi", 'b'));
 //        System.out.println(fiveInteger());
-        System.out.println(factorial(5));
-        System.out.println(isPinTrueOrFalse(12345, 12345));
-        System.out.println(fiveIntegers2());
+//        System.out.println(factorial(5));
+        System.out.println(isPinTrueOrFalse());
+//        System.out.println(fiveIntegers2());
     }
 
     public static int countChar(String str, char char1) {
@@ -49,10 +49,15 @@ public class Assignment {
         return sum;
     }
 
-    public static int fiveIntegers2(int[] n) {
+    public static int fiveIntegers2() {
         int sum = 0;
-        for (int i = 0; i < n.length; i++) {
-            sum += n[i];
+        int numbers = 0;
+        System.out.print("Enter five integers: ");
+        Scanner scanner = new Scanner(System.in);
+        for (int i = 0; i < 5; i++) {
+
+            numbers = scanner.nextInt();
+            sum += numbers;
         }
         return sum;
 
@@ -72,19 +77,32 @@ public class Assignment {
      * * When incorrect, display "incorrect, try again." When you've run out of attempts,
      * * display "sorry, but we've locked you out".
      *
-     * @param pin
-     * @param truePin
+     * @param
+     * @param
      * @return
      */
-    public static boolean isPinTrueOrFalse(int pin, int truePin){
+    public static int isPinTrueOrFalse(){
 
-        if (pin == truePin) {
-            System.out.println("Correct, welcome back");
-        }
-        if (pin != truePin) {
-            System.out.println("Incorrect, try again");
-        }
+        Scanner scanner = new Scanner(System.in);
+        int truePin = 1234;
+        int pin = 0;
 
-        return false;
+        for (int i = 0; i < 3; i++) {
+            System.out.println("Enter your pin: ");
+            pin = scanner.nextInt();
+            if (truePin == pin) {
+                System.out.println("Correct, welcome back");
+                break;
+            }
+            else {
+                System.out.println("Incorrect, try again");
+            }
+
+            if ((i == 2) && (truePin != pin)) {
+            System.out.println("Sorry, but we've locked you out");
+            }
+        }
+        return truePin;
+
     }
 }

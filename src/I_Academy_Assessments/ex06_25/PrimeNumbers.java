@@ -47,10 +47,10 @@ public class PrimeNumbers {
         int count = 0;
         for (int i = 0; i<=number; i++) {
             if (isPrime(i) == true) {
-                System.out.println(i);
+                System.out.println(i + " is a prime number");
                 count++;
             }
         }
-        System.out.println(count);
+        System.out.println(count + "is the total number of prime numbers in these range");
     }
 }
