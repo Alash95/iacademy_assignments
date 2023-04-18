@@ -6,7 +6,7 @@ public class Course {
     private int courseWorkMark;
 
     public Course(String courseTitle, int courseWorkMark) {
-        this.courseTitle = courseTitle;
+         this.courseTitle = courseTitle;
         if (courseWorkMark < 0 || courseWorkMark > 100) {
             throw new IllegalArgumentException("course work mark must be between 0 and 100");
         }

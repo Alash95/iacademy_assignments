@@ -4,23 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition example">
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/CourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/CourseWorkMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Tetrahedron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/ThreeDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/TwoDimensionalShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition and Polymorphism additions">
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Tetrahedron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/ThreeDimensionalShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/TwoDimensionalShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_Academy/abstraction/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CourseTest">
+  <component name="RunManager" selected="Application.Testing">
     <configuration name="CourseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.Online_ex2.CourseTest" />
       <module name="I-Academy" />
@@ -120,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex9_6.ShapesTest" />
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.ShapesRepeat.Testing" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex9_6.*" />
+          <option name="PATTERN" value="I_Academy.ShapesRepeat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Testing" />
         <item itemvalue="Application.CourseTest" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.RectangleTest" />
-        <item itemvalue="Application.ShapesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681286873930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOP Composition and Polymorphism additions">
+      <created>1681811970710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811970710</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +194,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My I-Academy first assessments solutions" />
     <MESSAGE value="OOP Composition example" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Composition example" />
+    <MESSAGE value="OOP Composition and Polymorphism additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Composition and Polymorphism additions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
