@@ -1,50 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition example">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ArrayVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex8_4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex8_4/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/BasePlusEmploye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/CommissionEmploye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/EmployeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/Commission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/EmployeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/Employeee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/ErrorMesage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/ShapesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/ThreeDimensionalShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/TwoDimensionalShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/ErrorMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/advancedOOP/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/advancedOOP/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/DynamicArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/methodDeepDive/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ObjectArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/CourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/CourseWorkMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Tetrahedron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/ThreeDimensionalShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/shape/TwoDimensionalShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_Academy/chapter4/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/chapter4/Assignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_25/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_25/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I_Academy/abstraction/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/EmployeeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -84,16 +60,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EmployeeTest">
-    <configuration name="EmployeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex9_3.EmployeTest" />
+  <component name="RunManager" selected="Application.CourseTest">
+    <configuration name="CourseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.Online_ex2.CourseTest" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex9_3.*" />
+          <option name="PATTERN" value="I_Academy.OOP_Classwork.Online_ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I_Academy.OOP_Classwork.ex9_14.EmployeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex9_14.EmployeTest" />
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex8_4.RectangleTest" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex9_14.*" />
+          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex8_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex8_4.RectangleTest" />
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.abstraction.shape.ShapeTest" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex8_4.*" />
+          <option name="PATTERN" value="I_Academy.abstraction.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CourseTest" />
+        <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.ShapesTest" />
-        <item itemvalue="Application.EmployeTest" />
-        <item itemvalue="Application.I_Academy.OOP_Classwork.ex9_14.EmployeTest" />
       </list>
     </recent_temporary>
   </component>
