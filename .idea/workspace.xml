@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition example">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ArrayVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex8_4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex8_4/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/BasePlusEmploye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/CommissionEmploye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/EmployeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_14/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/Commission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/EmployeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/Employeee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_3/ErrorMesage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/ShapesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/ThreeDimensionalShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/ex9_6/TwoDimensionalShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/ErrorMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/OOP_composition_practice/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/HourlyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/abstraction/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/advancedOOP/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/advancedOOP/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/DynamicArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/gradeBook/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/methodDeepDive/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ArrayExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tutorials/arrays/ObjectArray.java" afterDir="false" />
+    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Interfaces &amp; Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_Academy/chapter4/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/chapter4/Assignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_25/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy_Assessments/ex06_25/PrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +133,7 @@
       <workItem from="1680256736127" duration="10504000" />
       <workItem from="1680505533140" duration="48298000" />
       <workItem from="1680856407907" duration="45562000" />
-      <workItem from="1681648941576" duration="15024000" />
+      <workItem from="1681648941576" duration="17601000" />
     </task>
     <task id="LOCAL-00001" summary="My I-Academy first assessments solutions">
       <created>1681057205691</created>
@@ -191,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681286873930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOP Interfaces &amp; Inheritance">
+      <created>1681739228316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681739228316</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +176,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My I-Academy first assessments solutions" />
     <MESSAGE value="OOP Composition example" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Composition example" />
+    <MESSAGE value="OOP Interfaces &amp; Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Interfaces &amp; Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
