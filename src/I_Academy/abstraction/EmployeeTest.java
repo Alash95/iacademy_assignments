@@ -6,20 +6,20 @@ public class EmployeeTest {
 
         BasePlusCommissionEmployee basePlusCommissionEmployee = new BasePlusCommissionEmployee("Oyin", "Alasho", "1234", 150.0, 0.2, 300.0);
         System.out.println(basePlusCommissionEmployee.toString());
-        System.out.println(basePlusCommissionEmployee.earnings());
+        System.out.println(basePlusCommissionEmployee.getPaymentAmount());
 
 
         CommissionEmployee commissionEmployee = new CommissionEmployee("Oyin", "Folashade", "4321", 150.0, 0.2);
         System.out.println(commissionEmployee.toString());
-        System.out.println(commissionEmployee.earnings());
+        System.out.println(commissionEmployee.getPaymentAmount());
 
         SalariedEmployee salariedEmployee = new SalariedEmployee("Fola", "Esan", "3421", 400);
         System.out.println(salariedEmployee.toString());
-        System.out.println(salariedEmployee.earnings());
+        System.out.println(salariedEmployee.getPaymentAmount());
 
         HourlyEmployee hourlyEmployee = new HourlyEmployee("Alash", "Baba", "1342", 150, 50);
-        System.out.println(hourlyEmployee);
-        System.out.println(hourlyEmployee.earnings());
+        System.out.println(hourlyEmployee.toString());
+        System.out.println(hourlyEmployee.getPaymentAmount());
 
 
 
