@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Shapes Hierarchy repeat">
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/stringBuilder/SbTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetCode/TwoSum.java" afterDir="false" />
+    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition and Polymorphism additions">
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Tetrahedron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/ThreeDimensionalShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/TwoDimensionalShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +63,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoSum">
-    <configuration name="IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.IntegerToRoman" />
+  <component name="RunManager" selected="Application.Testing">
+    <configuration name="CourseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.Online_ex2.CourseTest" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="I_Academy.OOP_Classwork.Online_ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.RomanToInteger" />
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.abstraction.EmployeeTest" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="I_Academy.abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SbTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.stringBuilder.SbTest" />
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex8_4.RectangleTest" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.stringBuilder.*" />
+          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex8_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.abstraction.shape.ShapeTest" />
+      <module name="I-Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy.abstraction.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.TwoSum" />
-      <module name="I-Academy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.SbTest" />
         <item itemvalue="Application.Testing" />
+        <item itemvalue="Application.CourseTest" />
+        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.RectangleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -167,14 +174,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681811970710</updated>
     </task>
-    <task id="LOCAL-00004" summary="OOP Shapes Hierarchy repeat">
-      <created>1681817227059</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1681817227059</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,8 +195,7 @@
     <MESSAGE value="My I-Academy first assessments solutions" />
     <MESSAGE value="OOP Composition example" />
     <MESSAGE value="OOP Composition and Polymorphism additions" />
-    <MESSAGE value="OOP Shapes Hierarchy repeat" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Shapes Hierarchy repeat" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Composition and Polymorphism additions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
