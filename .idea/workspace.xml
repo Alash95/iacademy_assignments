@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition and Polymorphism additions">
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Tetrahedron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/ThreeDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/ShapesRepeat/TwoDimensionalShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/I_Academy/OOP_Classwork/Online_ex2/Course.java" afterDir="false" />
-    </list>
+    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition and Polymorphism additions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
