@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="OOP Composition and Polymorphism additions" />
+    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="Leet code solutions and Stringbuilder solutions.">
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/BigSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/CompareTheTriplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/DiagonalDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/SimpleSumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetCode/DifferenceOfTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +35,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-19.0.2/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,26 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Testing">
-    <configuration name="CourseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.Online_ex2.CourseTest" />
+}]]></component>
+  <component name="RunManager" selected="Application.DiagonalDifference">
+    <configuration name="BigSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.BigSum" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.OOP_Classwork.Online_ex2.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.abstraction.EmployeeTest" />
+    <configuration name="CompareTheTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.CompareTheTriplets" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.abstraction.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.OOP_Classwork.ex8_4.RectangleTest" />
+    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.DiagonalDifference" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.OOP_Classwork.ex8_4.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.abstraction.shape.ShapeTest" />
+    <configuration name="DifferenceOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.DifferenceOfTwoArrays" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.abstraction.shape.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.ShapesRepeat.Testing" />
+    <configuration name="SimpleSumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.SimpleSumArray" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.ShapesRepeat.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.CourseTest" />
-        <item itemvalue="Application.ShapeTest" />
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.RectangleTest" />
+        <item itemvalue="Application.DiagonalDifference" />
+        <item itemvalue="Application.BigSum" />
+        <item itemvalue="Application.CompareTheTriplets" />
+        <item itemvalue="Application.SimpleSumArray" />
+        <item itemvalue="Application.DifferenceOfTwoArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681811970710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Leet code solutions and Stringbuilder solutions.">
+      <created>1681979120530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681979120530</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +200,8 @@
     <MESSAGE value="My I-Academy first assessments solutions" />
     <MESSAGE value="OOP Composition example" />
     <MESSAGE value="OOP Composition and Polymorphism additions" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP Composition and Polymorphism additions" />
+    <MESSAGE value="Leet code solutions and Stringbuilder solutions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet code solutions and Stringbuilder solutions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
