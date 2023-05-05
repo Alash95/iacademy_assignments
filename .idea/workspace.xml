@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="HackerRank &amp; LeetCode Algorithms solution">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/exceptions_example/CircleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/I_Academy/exceptions_example/ExceptionPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/Staircase.java" afterDir="false" />
+    <list default="true" id="b346f850-9d03-4cc9-88a5-b03f1cb5ed80" name="Changes" comment="HackerRank Algorithms solution additions">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/Apartments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/Condos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/Houses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/HousingRentalsTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/PropertyCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/PropertyCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/april_assessments/RentalRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I-Academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/I-Academy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -52,6 +57,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -65,13 +74,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CircleException">
-    <configuration name="CircleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="I_Academy.exceptions_example.CircleException" />
+  <component name="RunManager" selected="Application.HousingRentalsTesting">
+    <configuration name="Apartments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="april_assessments.Apartments" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="I_Academy.exceptions_example.*" />
+          <option name="PATTERN" value="april_assessments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.DiagonalDifference" />
+    <configuration name="CircleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.exceptions_example.CircleException" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="I_Academy.exceptions_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlusMinus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.PlusMinus" />
+    <configuration name="HousingRentalsTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="april_assessments.HousingRentalsTesting" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="april_assessments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Staircase" />
+    <configuration name="PropertyCodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="april_assessments.PropertyCodeGenerator" />
       <module name="I-Academy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="april_assessments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HousingRentalsTesting" />
+        <item itemvalue="Application.PropertyCodeGenerator" />
+        <item itemvalue="Application.Apartments" />
         <item itemvalue="Application.CircleException" />
         <item itemvalue="Application.ExceptionPractice" />
-        <item itemvalue="Application.Staircase" />
-        <item itemvalue="Application.PlusMinus" />
-        <item itemvalue="Application.DiagonalDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682342265401</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HackerRank Algorithms solution additions">
+      <created>1682501653519</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682501653520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +229,8 @@
     <MESSAGE value="OOP Composition and Polymorphism additions" />
     <MESSAGE value="Leet code solutions and Stringbuilder solutions." />
     <MESSAGE value="HackerRank &amp; LeetCode Algorithms solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank &amp; LeetCode Algorithms solution" />
+    <MESSAGE value="HackerRank Algorithms solution additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Algorithms solution additions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
