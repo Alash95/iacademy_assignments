@@ -1,6 +1,6 @@
 package april_assessments;
 
-public class HousingRentalsTesting {
+public class ArrayListTesting {
 
     public static void main(String[] args) {
 
